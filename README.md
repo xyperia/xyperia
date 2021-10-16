@@ -19,13 +19,13 @@
 <br><br>
 
 <p align="center">
-  <img width="90%" src="https://github.com/xyperia/profile-summary-cards/profile-summary-card-output/github_dark//0-profile-details.svg" />
+  <img width="90%" src="https://github.com/xyperia/profile-summary-cards/tree/master/profile-summary-card-output/github_dark//0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img width="30%" src="https://github.com/xyperia/profile-summary-cards/profile-summary-card-output/github_dark//3-stats.svg" />
-  <img width="30%" src="https://github.com/xyperia/profile-summary-cards/profile-summary-card-output/github_dark//1-repos-per-language.svg" />
-  <img width="30%" src="https://github.com/xyperia/profile-summary-cards/profile-summary-card-output/github_dark//2-most-commit-language.svg" />
+  <img width="30%" src="https://github.com/xyperia/profile-summary-cards/tree/master/profile-summary-card-output/github_dark//3-stats.svg" />
+  <img width="30%" src="https://github.com/xyperia/profile-summary-cards/tree/master/profile-summary-card-output/1-repos-per-language.svg" />
+  <img width="30%" src="https://github.com/xyperia/profile-summary-cards/tree/master/profile-summary-card-output/2-most-commit-language.svg" />
 </p>
 
 <div align='center'>
