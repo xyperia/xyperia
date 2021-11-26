@@ -1,7 +1,7 @@
 <div align='center'>
   <p>Hi there! 👋 I'm <strong>Yan</strong>, Male, 23 y.o</p>
   <p>I’m currently working as a SysDev at the IT Distributor company</p>
-  <p>I have experience in 2D game and software development as a programmer</p>
+  <p>I have experience in game and software development as a programmer</p>
   <p>Feel free to add my <a href="https://steamcommunity.com/id/xyperia" target="_blank"> Steam </a> and let's play a game or two sometime or add me on <a href="https://discordapp.com/users/357108041755262989" target="_blank"> Discord </a></p>
 </div>
 
