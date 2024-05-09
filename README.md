@@ -27,7 +27,3 @@
   <img width="30%" src="https://raw.githubusercontent.com/xyperia/profile-summary-cards/master/profile-summary-card-output/github/1-repos-per-language.svg" />
   <img width="30%" src="https://raw.githubusercontent.com/xyperia/profile-summary-cards/master/profile-summary-card-output/github/2-most-commit-language.svg" />
 </p>
-
-<div align='center'>
-  <i>Btw, I'm currently switching from cracked software (Don't tell anyone 🤫🤐) to FOSS 😬<i>
-</div>
