@@ -4,8 +4,6 @@
 
 <br>
 
-<br><br>
-
 <p align="center">
   <img width="90%" src="https://raw.githubusercontent.com/xyperia/profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg" />
 </p>
