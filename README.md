@@ -1,5 +1,5 @@
 <div align='center'>
-  <p>Hi there! 👋 I'm <strong>Yan</strong>, Male, 25 y.o</p>
+  <p>Hi there! 👋 I'm <strong>Yan</strong>
 </div>
 
 <br>
